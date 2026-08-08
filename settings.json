@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hi",
-        "im a bot",
+        "",
+        "",
         ""
       ]
     },
